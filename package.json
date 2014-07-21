@@ -1,0 +1,34 @@
+{
+  "name": "youknownothing.js",
+  "version": "0.0.0",
+  "description": "You know nothing, J.S.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/istanbul test ./node_modules/.bin/_mocha -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dconnolly/youknownothing.js.git"
+  },
+  "keywords": [
+    "you",
+    "know",
+    "nothing"
+  ],
+  "author": {
+    "name": "Deirdre Connolly",
+    "email": "durumcrustulum@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dconnolly/youknownothing.js/issues"
+  },
+  "homepage": "https://github.com/dconnolly/youknownothing.js",
+  "devDependencies": {
+    "istanbul": "^0.3.0",
+    "mocha": "^1.20.1"
+  }
+}
