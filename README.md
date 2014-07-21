@@ -1,8 +1,6 @@
-youknownothing.js
-=================
+# youknownothing.js [![Build Status](https://travis-ci.org/dconnolly/youknownothing.js.svg?branch=master)](https://travis-ci.org/dconnolly/youknownothing.js)
 
-You know nothing, J.S.
-
+> You know nothing, J.S.
 
 ## Install
 
