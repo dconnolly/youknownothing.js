@@ -1,0 +1,26 @@
+{
+  "name": "youknownothing.js",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dconnolly/youknownothing.js",
+  "authors": [
+    "Deirdre Connolly"
+  ],
+  "description": "You know nothing, J.S.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "you",
+    "know",
+    "nothing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
